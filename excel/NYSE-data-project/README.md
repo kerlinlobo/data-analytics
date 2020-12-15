@@ -13,3 +13,17 @@ It provides the financial data gathered from SEC 10K annual filings from 448 com
 
 ## Securities file
 It provides the industry or sector information the companies are categorized under on the S&P 500 index.
+
+## Project data NYSE file
+The following information is included in the subset file:
+Ticker_Symbol
+Years
+Period_Ending
+Total_Revenue 
+COGS
+SGA
+Research_and_Development 
+Other_Operating_ Items 
+GICS_Sector
+GICS_Sub_Industry
+
