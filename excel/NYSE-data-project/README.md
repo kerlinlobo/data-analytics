@@ -16,14 +16,15 @@ It provides the industry or sector information the companies are categorized und
 
 ## Project data NYSE file
 The following information is included in the subset file:
-Ticker_Symbol
-Years
-Period_Ending
-Total_Revenue 
-COGS
-SGA
-Research_and_Development 
-Other_Operating_ Items 
-GICS_Sector
-GICS_Sub_Industry
+
+**Ticker Symbol:** Stock symbol.
+**Years:** Number of years for which data is provided.
+**Period Ending.**
+**Total Revenue.** 
+**COGS:** Cost of goods sold.
+**SGA:** Sales, General and Administrative expenses.
+**Research and Development.** 
+**Other Operating expense items.** 
+**GICS Sector:** Global Industry Classification Standard Sector. Industry sector the company is categorized under.
+**GICS Sub Industry:** Sub-industry sector the company is futher categorized under.
 
