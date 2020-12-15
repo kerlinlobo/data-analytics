@@ -28,3 +28,7 @@ These are profits on orders with returns. Markets not listed, may not have had o
 ## Granularity and Aggregations_Relationship between Quantity and Profit per Category per Market_scatter plot
 
 Here is the link to the plot showing the relationship between the items sold and profit, per three categories, in seven markets, from the #Globalsuperstore db: [scatter plot_items sold and profit per category and marlet](https://public.tableau.com/profile/kerlin7297#!/vizhome/Aggregation-and-Granularity_Relationship-between-Quantity-and-Profit-per-Category-per-Market_Global-superstore_db/Sheet1)
+
+## Hierarchies_Total Profit per Product_bar chart
+
+Here is the link to the plot showing a hierarchy created manually by branching out the Sub-Category values from the Category values, within the #Globalsuperstore db (e.g. A record under Sub-Category "Bookcases" always has a Category of "Furniture"): [bar chart_total profit per product](https://public.tableau.com/profile/kerlin7297#!/vizhome/Hierarchies_Total-Profit-per-Product_Global-superstore_db/Sheet1)
