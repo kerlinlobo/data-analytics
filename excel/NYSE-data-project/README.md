@@ -24,6 +24,10 @@ The project is divided into three parts:
    
 3. Creation of financial forecasting model to present future growth prospects for the companies.
 
+   The financial model is the sixth tab within the Excel file, and can be accessed through this link: [financial model](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing). 
+   
+   It is a dynamic model that forecasts out the Gross Profit and Operating Profit for two more years, for any company selected from the drop-down list, using three scenarios (Best case, Weak case, and Base case), and assumptions for revenue growth, gross margin, and operating margin for each scenario.
+
 # Dataset Overview
 The subset contains information from two files provided by Kaggle: _**Fundamentals.csv**_ and _**Securities.csv**_
 
