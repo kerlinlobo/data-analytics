@@ -1,7 +1,7 @@
 # Project Description
 Analysis of real life data from the New York Stock Exchange, working with a subset of a large dataset provided by Kaggle. It contains historical financial data from S&P 500 companies.
 The project is divided into three parts:
-1. Calculation of business metrics and summary statistics, creation of visuals and communication of business insights.
+1. Data analysis and summary statistics to answer a formulated business question; creation of visuals and communication of business insights.
    1. Data Cleaning
    
       Removed spaces in column names and corrected data type as needed. Here is the link to access the subset: 
