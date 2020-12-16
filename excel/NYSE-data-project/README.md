@@ -8,7 +8,9 @@ The project is divided into three parts:
    
    2. Calculated financial metrics and summary statistics
    
-      The financial metrics calculated are the columns highlighted in yellow (L through P) in the dataset, within the Excel file, and can be accessed through this link: [financial metrics](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing)
+      The calculated financial metrics are the columns highlighted in yellow (L through P) in the first tab within the Excel file, and can be accessed through this link: [financial metrics](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing)
+      The analysis of the categorical variable is in the second tab within the Excel file, and can be accessed through this link: [categorical_GICS Sector](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing)
+      The analysis of the quantitative variable and descriptive statistics are in the third and fourth tabs within the Excel file, and can be accessed through this link: [quantitative_Operating Income](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing)
       
    3. Visuals and business insights
       [presentation slides](https://drive.google.com/file/d/1L93uj1PZ-JvDPGP0dJSCD-7kvIqIrZ9X/view?usp=sharing)
