@@ -4,7 +4,7 @@ The project is divided into three parts:
 1. Data analysis and summary statistics to answer a formulated business question; creation of visuals and communication of business insights.
    1. Data Cleaning
    
-      Removed spaces in column names and corrected data type and values as needed. The cleaned dataset is the first tab in the Excel file, and can be accessed through this link (Open it as an Excel file): [cleaned dataset](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing)
+      Removed spaces in column names and corrected data type and values as needed. The cleaned dataset is the first tab in the Excel file, and can be accessed through this link **(Open it as an Excel file)**: [cleaned dataset](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing)
    
    2. Calculated financial metrics and summary statistics
    
