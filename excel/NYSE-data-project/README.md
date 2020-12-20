@@ -1,7 +1,9 @@
 # Project Description
-Analysis of real life data from the New York Stock Exchange, working with a subset of a large dataset provided by Kaggle. It contains historical financial data from S&P 500 companies.
-The project is divided into three parts:
-1. Data analysis and summary statistics to answer a formulated business question; creation of visuals and communication of business insights.
+Financial Analysis and Forecasting Modelling Use Case with NYSE Data. 
+
+The project is divided into three parts: Financial analysis, dynamic dashboard with P&L statement per company, and dynamic financial forecasting model.
+
+1. Financial analysis: Answered business questions by performing data analysis and summary statistics; created visualizations to communicate business insights. This part included:
    1. Data Cleaning
    
       Removed spaces in column names and corrected data type and values as needed. The cleaned dataset is the first tab in the Excel file, and can be accessed through this link **(Open it as an Excel file)**: [cleaned dataset](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing)
@@ -18,11 +20,11 @@ The project is divided into three parts:
    
       Here is the link to access the PDF file with the visualizations and insights: [presentation slides](https://drive.google.com/file/d/1L93uj1PZ-JvDPGP0dJSCD-7kvIqIrZ9X/view?usp=sharing)
    
-2. Creation of dynamic dashboard with Profit & Loss (P&L) statement for each company.
+2. Dynamic dashboard with Profit & Loss (P&L) statement for each company:
 
    The dashboard pulls historical fundamentals data for any company selected from the drop-down list, and calculates Gross Profit and Operating Profit (EBIT) to create the P&L Statement for all the years there is historical data available for that company in the dataset. The dynamic dashboard is the fifth tab within the Excel file, and can be accessed through this link: [dynamic P&L statement](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing)
    
-3. Creation of financial forecasting model to present future growth prospects for the companies.
+3. Financial forecasting model to present future growth prospects for the companies:
 
    The financial model is the sixth tab within the Excel file, and can be accessed through this link: [financial model](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing). 
    
