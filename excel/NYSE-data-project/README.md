@@ -24,7 +24,7 @@ The project is divided into three parts: Financial analysis, dynamic dashboard w
 
    The dashboard pulls historical fundamentals data for any company selected from the drop-down list, and calculates Gross Profit and Operating Profit (EBIT) to create the P&L Statement for all the years there is historical data available for that company in the dataset. The dynamic dashboard is the fifth tab within the Excel file, and can be accessed through this link: [dynamic P&L statement](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing)
    
-3. Financial forecasting model to present future growth prospects for the companies:
+3. Dynamic financial forecasting model to present future growth prospects for the companies:
 
    The financial model is the sixth tab within the Excel file, and can be accessed through this link: [financial model](https://drive.google.com/file/d/1F_-g2a51PqEmBBwbbpT_MPa_M7SX25Rq/view?usp=sharing). 
    
