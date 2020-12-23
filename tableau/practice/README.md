@@ -32,3 +32,7 @@ Here is the link to the plot showing the relationship between the items sold and
 ## Hierarchies_Total Profit per Product_bar chart
 
 Here is the link to the plot showing a hierarchy created manually by branching out the Sub-Category values from the Category values, within the #Globalsuperstore db (e.g. A record under Sub-Category "Bookcases" always has a Category of "Furniture"): [bar chart_total profit per product](https://public.tableau.com/profile/kerlin7297#!/vizhome/Hierarchies_Total-Profit-per-Product_Global-superstore_db/Sheet1)
+
+## Hierarchies_Total Monthly Sales_line plot
+
+Here is the link to the Line plot of Total Sales, drilled down into the hierarchy starting with the yearly data, then grouping it by month, within the #Globalsuperstore db: [line plot_total monthly sales](https://public.tableau.com/profile/kerlin7297#!/vizhome/Hierarchies_Total-Monthly_Sales/Sheet1?publish=yes)
