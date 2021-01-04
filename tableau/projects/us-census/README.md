@@ -1,6 +1,6 @@
 **Analysis of the 2015 USA Census Demographic Data**
 
-1.	Dashboard – Population by State and Employment by County in 2015
+**1.	Dashboard – Population by State and Employment by County in 2015**
 
 [What is the state with the largest population in USA, and what is the employment rate in the most populated county in that state?](https://public.tableau.com/profile/kerlin7297#!/vizhome/Dashboardon2015USACensusData/Dashboard1)
 
@@ -10,7 +10,7 @@ The bar chart was a great option to visualize the distribution of the USA popula
      
 The employment rate was a calculated field of the proportion of total employed people compared to the total population by county. That employment rate was added to a shaded map by state, by using the Tooltip, also color encoding the total population by county, and then filtering California as the most populated.  
 
-2.	Dashboard - Correlation between Income and Poverty, and Low Poverty Map
+**2.	Dashboard - Correlation between Income and Poverty, and Low Poverty Map**
 
 [What is the relationship between Income and %Poverty by State, and which states have poverty rates below 16%?](https://public.tableau.com/profile/kerlin7297#!/vizhome/Dashboard-CorrelationbetweenIncomeandPoverty/Dashboard2?publish=yes)
 
@@ -20,8 +20,10 @@ The relationship between annual income and poverty rates was analyzed using a sc
 
 With the group created, named “Low Poverty States”, a map was used to show the location of the 26 states in the group, color encoded in blue.
 
-3.	Histogram of Child Poverty Rate
-How is the Child Poverty rate distributed in the 2015 census data?
-https://public.tableau.com/profile/kerlin7297#!/vizhome/Histogram-ChildPovertyRatein2015Census/HistogramChildPoverty?publish=yes
+**3.	Histogram of Child Poverty Rate**
+
+[How is the Child Poverty rate distributed in the 2015 census data?](https://public.tableau.com/profile/kerlin7297#!/vizhome/Histogram-ChildPovertyRatein2015Census/HistogramChildPoverty?publish=yes)
+
 The histogram of the entire dataset shows the highest frequency for Child Poverty rate at 21%. The distribution is right-skewed, which indicates that the mean is higher than the median, and there is an outlier at 81%. The mean is 24.2% and the median 22.7%, with a standard deviation of 11.7% and range of 81.60%, which shows a high variation of the child poverty rates across the USA.
+
 When filtered the data by state and analyzed California as the most populated state, the most frequent child poverty rate was 21%, as for the entire census data. The mean is 21.59% and the median 22.35%, with standard deviation of 7.9% and range of 32.4%. This distribution is left-skewed, with less variation and a smaller range than the nationwide data.
