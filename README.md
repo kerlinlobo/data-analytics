@@ -7,4 +7,4 @@ The Tableau project consisted of the analysis of the USA population, employment 
 
 The SQL project involved scripts in SQLite server to explore and analyze the product portfolio, customers, and employees’ performance in a digital music store, as well as visualizations to communicate insights for revenue generation strategies.
 
-The Excel project consisted of the financial analysis and forecasting modelling using NYSE Data. It includes dynamic dashboard with P&L statement, dynamic forecasting model per company, and visualizations.
+The Excel project involved the financial analysis and forecasting modelling using NYSE Data. It includes dynamic dashboard with P&L statement, dynamic forecasting model per company, and visualizations.
