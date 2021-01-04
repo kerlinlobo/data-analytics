@@ -12,7 +12,7 @@ The employment rate was a calculated field of the proportion of total employed p
 
 **2.	Dashboard - Correlation between Income and Poverty, and Low Poverty Map**
 
-[What is the relationship between Income and %Poverty by State, and which states have poverty rates below 16%?](https://public.tableau.com/profile/kerlin7297#!/vizhome/Dashboard-CorrelationbetweenIncomeandPoverty/Dashboard2?publish=yes)
+[What is the relationship between Income and Poverty Rate by State, and which states have poverty rates below 16%?](https://public.tableau.com/profile/kerlin7297#!/vizhome/Dashboard-CorrelationbetweenIncomeandPoverty/Dashboard2?publish=yes)
 
 The scatter plot shows a strong negative correlation between average annual income and average poverty rate per state, where poverty tends to decrease as income increases. NJ had the largest income at $73k with poverty rate at 10.6%, closely followed by Connecticut with income at $71k and the lowest poverty rate at 9.4%. There is an outlier, represented by Puerto Rico, with a poverty rate at 49.4% and income at $18k. In general, twenty six states reported poverty rates below 16% for the 2015 census data, as shown in blue in the map.
 
