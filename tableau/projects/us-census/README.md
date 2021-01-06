@@ -1,4 +1,4 @@
-**Analysis of the 2015 USA Census Demographic Data**
+**Demographic Analysis of the 2015 USA Census Data**
 
 **1.	Population by State and Employment by County in 2015.** Access the dashboard here: [What is the state with the largest population in USA, and what is the employment rate in the most populated county in that state?](https://public.tableau.com/profile/kerlin7297#!/vizhome/Dashboardon2015USACensusData/Dashboard1)
 
